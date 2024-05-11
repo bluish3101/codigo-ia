@@ -28,3 +28,5 @@ if chute == palavra_secreta:
   print('Acertou')
 else:
   print(f'Errou.. a palavra secreta era {palavra_secreta}')
+
+#FIM
